@@ -1,0 +1,1 @@
+Uwaga! Program korzysta z bazy danych. Wiêcej informacj w pomocy do³¹czonej do programu

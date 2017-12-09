@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receptka", "Receptka.csproj", "{E6C77443-9A85-43FB-A97C-88955CB56BC1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalka", "Instalka\Instalka.vdproj", "{BC913C0D-675A-4B67-90C4-AD5834D2C028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6C77443-9A85-43FB-A97C-88955CB56BC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6C77443-9A85-43FB-A97C-88955CB56BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6C77443-9A85-43FB-A97C-88955CB56BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6C77443-9A85-43FB-A97C-88955CB56BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC913C0D-675A-4B67-90C4-AD5834D2C028}.Debug|Any CPU.ActiveCfg = Debug
+		{BC913C0D-675A-4B67-90C4-AD5834D2C028}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
